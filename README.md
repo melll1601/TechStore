@@ -31,7 +31,6 @@ A classe ProcessadorDePedido da TechStore funciona como uma "Classe Deus", centr
 
 ````
 GerenciamentoPedidos
-└── assets
 └── src
     └── TechStore
         └── CalculoFreteImpostos
